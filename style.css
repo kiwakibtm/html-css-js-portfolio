@@ -423,9 +423,9 @@ article.icon {
 
 .article-container {
   display: flex;
-  text-align: initial;
+  text-align: start;
   flex-wrap: wrap;
-  flex-direction: column;
+  flex-direction: row;
   gap: 2.5rem;
   justify-content: space-around;
 }
