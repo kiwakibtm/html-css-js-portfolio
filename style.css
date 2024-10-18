@@ -417,7 +417,7 @@ article.icon {
 
 .involvements-details-container {
   display: flex;
-  justify-content: left;
+  justify-content: center;
   flex-direction: column;
 }
 
@@ -425,7 +425,7 @@ article.icon {
   display: flex;
   text-align: initial;
   flex-wrap: wrap;
-  flex-direction: row;
+  flex-direction: column;
   gap: 2.5rem;
   justify-content: space-around;
 }
