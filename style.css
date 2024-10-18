@@ -423,10 +423,10 @@ article.icon {
 
 .article-container {
   display: flex;
-  text-align: justify;
+  text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 2.5rem;
+  gap: 1.5rem;
   justify-content: space-around;
 }
 
